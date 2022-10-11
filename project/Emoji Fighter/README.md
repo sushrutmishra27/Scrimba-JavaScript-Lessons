@@ -1,4 +1,4 @@
-# co0ae44c3916ad5cbf9d73166
+# EmojiFighter Game
 
 ## About Scrimba
 
