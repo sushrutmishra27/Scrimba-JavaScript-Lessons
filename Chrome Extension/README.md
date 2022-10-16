@@ -1,4 +1,4 @@
-# co3d648dc88e574bea04fa576
+# Building a Chrome Extension
 
 ## About Scrimba
 
